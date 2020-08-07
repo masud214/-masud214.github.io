@@ -1,0 +1,323 @@
+
+/*extra sllam divce*/
+@media(max-width:575px) {
+    .banner_part h2 {
+        font-size: 19px;
+        padding: 0;
+        padding-bottom: 86px;
+        padding-top: 230px;
+    }
+
+    .navbar-collapse {
+        background:  #043771;
+        text-align: center;
+    }
+
+   .banner_part h2::after {
+        top: 250px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(255, 251, 251, 0.98);
+    }
+
+    .coll-head h2::after {
+        top: 132px;
+    }
+
+    .coll-head h2 {
+        font-size: 27px;
+
+
+    }
+
+    .coll-img img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .coll-head {
+        padding-top: 87px;
+        padding-bottom: 78px;
+    }
+
+    .coll-about {
+        font-size: 13px;
+        line-height: 23px;
+        padding-top: 35px;
+        text-align: justify;
+    }
+
+    .teacher-head h2 {
+        font-size: 28px;
+    }
+
+
+    .teacher-details {
+	    width: 116%;
+        padding: 46;
+    }
+    .teacher-details h4 {
+        font-size: 14px;
+    }
+
+    .teacher-details h2 {
+        font-size: 15px;
+    }
+
+
+
+    .teacher-details p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-top: 17px;
+        text-align: justify;
+        padding: 22px;
+        
+
+    }
+    .teacher-item {
+	    padding-top: 53px;
+        padding: 0;
+        margin-left: -36px;
+        margin-top: 20px;
+      }
+    .teacher-item::after {
+        height: 32px;
+        width: 34px;
+        left: 57%;
+        top: -16px;
+
+    }
+    .teacher-head::after {
+	    top: 122px;
+
+    }
+
+    .button-group .button {
+        margin-left: 13px;
+        margin-right: 8px;
+        margin-bottom: 26px;
+    }
+
+    element {
+        top: 150px;
+    }
+    
+    #teacher-area i {
+        z-index: 99;
+    }
+    .banner_part h2 {
+	padding-top: 170px;
+    }
+   
+    
+/*    studen part media css*/
+    .card {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);    
+   }
+    
+    .student-img::after {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%); 
+   }
+    
+
+    .about-head h2 {
+        font-size: 24px;
+    }
+
+
+}
+
+@media(min-width: 576px) and (max-width: 767px){
+    .banner_part h2 {
+        font-size: 25px;
+        padding: 0;
+        padding-bottom: 86px;
+        padding-top: 230px;
+    }
+
+    .navbar-collapse {
+        background: #020131f7;
+        text-align: center;
+    }
+
+   .banner_part h2::after {
+        top: 305px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(255, 251, 251, 0.98);
+    }
+    
+     .coll-head h2:after {
+        top: 150px;
+    }
+
+    .coll-head h2 {
+        font-size: 32px;
+
+
+    }
+        .coll-img img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .coll-head {
+        padding-top: 87px;
+        padding-bottom: 78px;
+    }
+
+    .coll-about {
+        font-size: 13px;
+        line-height: 23px;
+        padding-top: 62px;
+        text-align: justify;
+    }
+    
+
+    .teacher-head h2 {
+        font-size: 32px;
+    }
+
+    .teacher-details {
+	    width: 108%;
+        padding: 46;
+    }
+    .teacher-details h4 {
+        font-size: 14px;
+    }
+
+    .teacher-details h2 {
+        font-size: 15px;
+    }
+    .teacher-head::after {
+	top: 198px;
+    }
+    .teacher-details p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-top: 17px;
+        text-align: justify;
+        padding: 22px;
+        
+
+    }
+    .teacher-item {
+	    padding-top: 53px;
+        padding: 0;
+        margin-left: -36px;
+        margin-top: 20px;
+      }
+    .teacher-item::after {
+        height: 32px;
+        width: 34px;
+        left: 57%;
+        top: -16px;
+
+    }
+    
+    .button-group .button {
+	    margin-left: 16px;
+	    margin-right: 10px;
+	    margin-bottom: 21px;
+    }
+    element {
+        top: 150px;
+    }
+    
+    #teacher-area i {
+        z-index: 99;
+    }
+    .banner_part h2 {
+	    padding-top: 170px;
+    }
+    
+    .teacher-about-slider {
+	    margin-bottom: 80px;
+    }
+    .footer-top-2 {
+	    margin-bottom: 90px;
+	    margin-left: 0px;
+   }
+    
+    .f-btm p {
+	    font-size: 13px;
+        z-index: 99;
+   }
+    .about-head h2 {
+        font-size: 30px;
+    }    
+
+    
+    
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+   .banner_part h2 {
+        font-size: 32px;
+        padding: 0;
+        padding-bottom: 86px;
+        padding-top: 260px;
+    }
+
+
+   .banner_part h2::after {
+        top: 332px;
+    }
+    .banner_part h2::after {
+
+	width: 160px;
+
+
+    
+    }
+    
+    .coll-head h2::after {
+
+        top: 132px;
+    }
+
+    .coll-head h2 {
+        font-size: 27px;
+
+
+    }
+
+    .coll-img img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .coll-head {
+        padding-top: 87px;
+        padding-bottom: 78px;
+    }
+
+    .coll-about {
+        font-size: 13px;
+        line-height: 23px;
+        padding-top: 35px;
+        text-align: justify;
+    }
+    .about-head h2 {
+        font-size: 32px;
+    }
+
+
+
+
+
+
+}
